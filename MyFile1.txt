@@ -1,0 +1,3 @@
+THIS IS MY 1st FILE FOR Exam Demo.
+
+In the 1st text file add different text in the line no 3 in your local repository.
