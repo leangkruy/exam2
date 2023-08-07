@@ -1,3 +1,4 @@
 THIS IS MY 2nd FILE FOR Exam Demo.
 
 In the 2nd text file add same text in the line no 3 in your local repository.
+In the 2nd text file add some text in the line no 3 in your uploaded github repo file.
